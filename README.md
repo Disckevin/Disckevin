@@ -2,13 +2,13 @@
 <h1 align="left"> <img width= "50" src="https://user-images.githubusercontent.com/103297964/190863359-30ae6a7d-e762-47ed-b4d0-406628f82dde.jpg" alt="Logo_Kevin"> &nbsp;Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">:grin:, I'm Kevin Bazilio Ferreira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diskevin&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I’m interested in starting my journey into the job market as a programmer as soon as possible. 
+- :fire: I’m interested in starting my journey into the job market as a programmer as soon as possible. 
 
-- 💬 I’m currently learning "System Analysis and Development" and currently **i'm study about: HTML, Java and CSS.**
+- :speech_balloon: I’m currently studying "System Analysis and Development" and **i'm learnig about: HTML, Java and CSS.**
 
-- 👨‍💻 I’m looking to collaborate on for now how front-end, at the beggining of my career, in the future i want to work as a back-end and finally become a full-stack.
+- :man_technologist: I think about starting my career, initially as a front-end, later moving to a back-end and finally becoming a full-stack.
 
-- ⚡ Fun fact **I like playing basketball** <img height="20em" src="https://user-images.githubusercontent.com/16616543/38898886-4bc45c76-4264-11e8-942e-59df5d973d55.png" alt="basketball">
+- :basketball: Fun fact **I like playing basketball !!**  
 <br>
 
 ## Contact
